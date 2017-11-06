@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "title": "Moscow",
+        "marker-size": "large",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6171875,
+          55.727110085045986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Twer",
+        "marker-size": "medium",
+        "marker-color": "#7e7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8154296875,
+          56.897003921272606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Vologda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8583984375,
+          59.24341475839977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "NN",
+        "marker-color": "#f1f111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9453125,
+          56.36525013685606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.70507812499999,
+            55.751849391735284
+          ],
+          [
+            35.9912109375,
+            56.80087831233043
+          ],
+          [
+            39.94628906249999,
+            59.24341475839977
+          ],
+          [
+            37.9248046875,
+            55.677584411089526
+          ]
+        ]
+      }
+    }
+  ]
+}
